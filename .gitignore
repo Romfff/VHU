@@ -1,0 +1,6 @@
+# Temp dump files & logs
+*_dump.html
+vhu_main.html
+*.txt
+__pycache__/
+*.pyc

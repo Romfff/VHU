@@ -1,0 +1,744 @@
+[
+  {
+    "id": 1,
+    "name": "Ngôn ngữ Pháp",
+    "code": "7220203",
+    "group": "Nhóm 1",
+    "category": "Ngôn ngữ & Khoa học Xã hội",
+    "credits": 136,
+    "fee": 12265000,
+    "feeDiscount": 6132500,
+    "combinations": [
+      "D01 (Toán, Văn, Anh)",
+      "D14 (Văn, Sử, Anh)",
+      "D15 (Văn, Địa, Anh)",
+      "A01 (Toán, Lý, Anh)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Ngôn ngữ Pháp tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 2,
+    "name": "Việt Nam học",
+    "code": "7310630",
+    "group": "Nhóm 1",
+    "category": "Ngôn ngữ & Khoa học Xã hội",
+    "credits": 136,
+    "fee": 12265000,
+    "feeDiscount": 6132500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Việt Nam học tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 3,
+    "name": "Xã hội học",
+    "code": "7310301",
+    "group": "Nhóm 1",
+    "category": "Ngôn ngữ & Khoa học Xã hội",
+    "credits": 136,
+    "fee": 12265000,
+    "feeDiscount": 6132500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Xã hội học tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 4,
+    "name": "Văn học",
+    "code": "7229030",
+    "group": "Nhóm 1",
+    "category": "Ngôn ngữ & Khoa học Xã hội",
+    "credits": 136,
+    "fee": 12265000,
+    "feeDiscount": 6132500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Văn học tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 5,
+    "name": "Công nghệ thực phẩm",
+    "code": "7540101",
+    "group": "Nhóm 2",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 15088000,
+    "feeDiscount": 7544000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C01 (Toán, Văn, Lý)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Công nghệ thực phẩm tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 6,
+    "name": "Đạo diễn điện ảnh, truyền hình",
+    "code": "7210235",
+    "group": "Nhóm 2",
+    "category": "Nghệ thuật & Sáng tạo",
+    "credits": 136,
+    "fee": 15088000,
+    "feeDiscount": 7544000,
+    "combinations": [
+      "N00 (Văn, Năng khiếu 1, Năng khiếu 2)",
+      "H00 (Văn, Năng khiếu)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Đạo diễn điện ảnh, truyền hình tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 7,
+    "name": "Công nghệ sinh học",
+    "code": "7420201",
+    "group": "Nhóm 3",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 15441000,
+    "feeDiscount": 7720500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C01 (Toán, Văn, Lý)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Công nghệ sinh học tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 8,
+    "name": "Kỹ thuật môi trường",
+    "code": "7520320",
+    "group": "Nhóm 4",
+    "category": "Công nghệ sinh học & Thực phẩm",
+    "credits": 136,
+    "fee": 15794000,
+    "feeDiscount": 7897000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C01 (Toán, Văn, Lý)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Kỹ thuật môi trường tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 9,
+    "name": "Kỹ thuật xây dựng",
+    "code": "7580201",
+    "group": "Nhóm 4",
+    "category": "Công nghệ & Kỹ thuật",
+    "credits": 150,
+    "fee": 14320000,
+    "feeDiscount": 7160000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C01 (Toán, Văn, Lý)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Kỹ thuật xây dựng tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 10,
+    "name": "Thanh nhạc",
+    "code": "7210205",
+    "group": "Nhóm 4",
+    "category": "Nghệ thuật & Sáng tạo",
+    "credits": 136,
+    "fee": 15794000,
+    "feeDiscount": 7897000,
+    "combinations": [
+      "N00 (Văn, Năng khiếu 1, Năng khiếu 2)",
+      "H00 (Văn, Năng khiếu)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Thanh nhạc tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 11,
+    "name": "Piano",
+    "code": "7210208",
+    "group": "Nhóm 4",
+    "category": "Nghệ thuật & Sáng tạo",
+    "credits": 136,
+    "fee": 15794000,
+    "feeDiscount": 7897000,
+    "combinations": [
+      "N00 (Văn, Năng khiếu 1, Năng khiếu 2)",
+      "H00 (Văn, Năng khiếu)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Piano tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 12,
+    "name": "Ngôn ngữ Anh",
+    "code": "7220201",
+    "group": "Nhóm 5",
+    "category": "Ngôn ngữ & Khoa học Xã hội",
+    "credits": 136,
+    "fee": 15882000,
+    "feeDiscount": 7941000,
+    "combinations": [
+      "D01 (Toán, Văn, Anh)",
+      "D14 (Văn, Sử, Anh)",
+      "D15 (Văn, Địa, Anh)",
+      "A01 (Toán, Lý, Anh)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Ngôn ngữ Anh tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 13,
+    "name": "Kinh tế",
+    "code": "7310101",
+    "group": "Nhóm 5",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 15882000,
+    "feeDiscount": 7941000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Kinh tế tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 14,
+    "name": "Quản trị nhân lực",
+    "code": "7340404",
+    "group": "Nhóm 6",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 16324000,
+    "feeDiscount": 8162000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Quản trị nhân lực tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 15,
+    "name": "Mạng máy tính và Truyền thông dữ liệu",
+    "code": "7480102",
+    "group": "Nhóm 6",
+    "category": "Công nghệ & Kỹ thuật",
+    "credits": 136,
+    "fee": 16324000,
+    "feeDiscount": 8162000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C01 (Toán, Văn, Lý)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Mạng máy tính và Truyền thông dữ liệu tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 16,
+    "name": "Kế toán",
+    "code": "7340301",
+    "group": "Nhóm 6",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 16324000,
+    "feeDiscount": 8162000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Kế toán tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 17,
+    "name": "Kỹ thuật điện tử - viễn thông",
+    "code": "7520207",
+    "group": "Nhóm 6",
+    "category": "Công nghệ & Kỹ thuật",
+    "credits": 150,
+    "fee": 14800000,
+    "feeDiscount": 7400000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C01 (Toán, Văn, Lý)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Kỹ thuật điện tử - viễn thông tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 18,
+    "name": "Ngôn ngữ Nhật",
+    "code": "7220209",
+    "group": "Nhóm 6",
+    "category": "Ngôn ngữ & Khoa học Xã hội",
+    "credits": 136,
+    "fee": 16324000,
+    "feeDiscount": 8162000,
+    "combinations": [
+      "D01 (Toán, Văn, Anh)",
+      "D14 (Văn, Sử, Anh)",
+      "D15 (Văn, Địa, Anh)",
+      "A01 (Toán, Lý, Anh)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Ngôn ngữ Nhật tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 19,
+    "name": "Trung quốc học",
+    "code": "7310612",
+    "group": "Nhóm 6",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 16324000,
+    "feeDiscount": 8162000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Trung quốc học tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 20,
+    "name": "Đông phương học",
+    "code": "7310608",
+    "group": "Nhóm 6",
+    "category": "Ngôn ngữ & Khoa học Xã hội",
+    "credits": 136,
+    "fee": 16324000,
+    "feeDiscount": 8162000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Đông phương học tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 21,
+    "name": "Quan hệ quốc tế",
+    "code": "7310206",
+    "group": "Nhóm 7",
+    "category": "Ngôn ngữ & Khoa học Xã hội",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Quan hệ quốc tế tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 22,
+    "name": "Khoa học máy tính",
+    "code": "7480101",
+    "group": "Nhóm 7",
+    "category": "Công nghệ & Kỹ thuật",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C01 (Toán, Văn, Lý)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Khoa học máy tính tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 23,
+    "name": "Quản trị khách sạn",
+    "code": "7810201",
+    "group": "Nhóm 7",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Quản trị khách sạn tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 24,
+    "name": "Du lịch",
+    "code": "7810101",
+    "group": "Nhóm 7",
+    "category": "Du lịch & Dịch vụ",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Du lịch tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 25,
+    "name": "Tâm lý học",
+    "code": "7310401",
+    "group": "Nhóm 7",
+    "category": "Ngôn ngữ & Khoa học Xã hội",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Tâm lý học tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 26,
+    "name": "Quản trị kinh doanh",
+    "code": "7340101",
+    "group": "Nhóm 7",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Quản trị kinh doanh tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 27,
+    "name": "Tài chính - Ngân hàng",
+    "code": "7340201",
+    "group": "Nhóm 7",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Tài chính - Ngân hàng tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 28,
+    "name": "Marketing",
+    "code": "7340115",
+    "group": "Nhóm 7",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Marketing tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 29,
+    "name": "Kinh doanh thương mại",
+    "code": "7340121",
+    "group": "Nhóm 7",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Kinh doanh thương mại tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 30,
+    "name": "Quản trị nhà hàng và dịch vụ ăn uống",
+    "code": "7810202",
+    "group": "Nhóm 7",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Quản trị nhà hàng và dịch vụ ăn uống tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 31,
+    "name": "Công nghệ thông tin",
+    "code": "7480201",
+    "group": "Nhóm 7",
+    "category": "Công nghệ & Kỹ thuật",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C01 (Toán, Văn, Lý)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Công nghệ thông tin tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 32,
+    "name": "Thương mại điện tử",
+    "code": "7340122",
+    "group": "Nhóm 7",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 16765000,
+    "feeDiscount": 8382500,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Thương mại điện tử tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 33,
+    "name": "Công nghệ tài chính",
+    "code": "7340205",
+    "group": "Nhóm 8",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 17206000,
+    "feeDiscount": 8603000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C01 (Toán, Văn, Lý)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Công nghệ tài chính tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 34,
+    "name": "Công nghệ điện ảnh, truyền hình",
+    "code": "7210302",
+    "group": "Nhóm 8",
+    "category": "Nghệ thuật & Sáng tạo",
+    "credits": 136,
+    "fee": 17206000,
+    "feeDiscount": 8603000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C01 (Toán, Văn, Lý)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Công nghệ điện ảnh, truyền hình tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 35,
+    "name": "Quản trị dịch vụ du lịch và lữ hành",
+    "code": "7810103",
+    "group": "Nhóm 8",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 17206000,
+    "feeDiscount": 8603000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Quản trị dịch vụ du lịch và lữ hành tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 36,
+    "name": "Ngôn ngữ Trung Quốc",
+    "code": "7220204",
+    "group": "Nhóm 8",
+    "category": "Ngôn ngữ & Khoa học Xã hội",
+    "credits": 136,
+    "fee": 17206000,
+    "feeDiscount": 8603000,
+    "combinations": [
+      "D01 (Toán, Văn, Anh)",
+      "D14 (Văn, Sử, Anh)",
+      "D15 (Văn, Địa, Anh)",
+      "A01 (Toán, Lý, Anh)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Ngôn ngữ Trung Quốc tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 37,
+    "name": "Quan hệ công chúng",
+    "code": "7320108",
+    "group": "Nhóm 8",
+    "category": "Truyền thông & Xã hội",
+    "credits": 136,
+    "fee": 17206000,
+    "feeDiscount": 8603000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Quan hệ công chúng tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 38,
+    "name": "Truyền thông đa phương tiện",
+    "code": "7320104",
+    "group": "Nhóm 8",
+    "category": "Truyền thông & Xã hội",
+    "credits": 136,
+    "fee": 17206000,
+    "feeDiscount": 8603000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Truyền thông đa phương tiện tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 39,
+    "name": "Điều dưỡng",
+    "code": "7720301",
+    "group": "Nhóm 8",
+    "category": "Y Dược & Sức khỏe",
+    "credits": 150,
+    "fee": 15600000,
+    "feeDiscount": 7800000,
+    "combinations": [
+      "B00 (Toán, Hóa, Sinh)",
+      "A00 (Toán, Lý, Hóa)",
+      "D07 (Toán, Hóa, Anh)",
+      "B08 (Toán, Sinh, Anh)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Điều dưỡng tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 40,
+    "name": "Logistics và Quản lý chuỗi cung ứng",
+    "code": "7510605",
+    "group": "Nhóm 8",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 17206000,
+    "feeDiscount": 8603000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Logistics và Quản lý chuỗi cung ứng tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 41,
+    "name": "Luật",
+    "code": "7380101",
+    "group": "Nhóm 9",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 18088000,
+    "feeDiscount": 9044000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Luật tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 42,
+    "name": "Luật Kinh tế",
+    "code": "7380107",
+    "group": "Nhóm 9",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 18088000,
+    "feeDiscount": 9044000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Luật Kinh tế tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": 43,
+    "name": "Kiểm toán",
+    "code": "7340302",
+    "group": "Nhóm 10",
+    "category": "Kinh tế & Quản trị",
+    "credits": 136,
+    "fee": 23206000,
+    "feeDiscount": 11603000,
+    "combinations": [
+      "A00 (Toán, Lý, Hóa)",
+      "A01 (Toán, Lý, Anh)",
+      "D01 (Toán, Văn, Anh)",
+      "C00 (Văn, Sử, Địa)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Kiểm toán tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  },
+  {
+    "id": "",
+    "name": "Ngôn ngữ Trung Quốc - LKQT",
+    "code": "7220204LK",
+    "group": "",
+    "category": "Ngôn ngữ & Khoa học Xã hội",
+    "credits": 136,
+    "fee": 20652000,
+    "feeDiscount": 10326000,
+    "combinations": [
+      "D01 (Toán, Văn, Anh)",
+      "D14 (Văn, Sử, Anh)",
+      "D15 (Văn, Địa, Anh)",
+      "A01 (Toán, Lý, Anh)"
+    ],
+    "description": "Chương trình đào tạo cử nhân chất lượng cao ngành Ngôn ngữ Trung Quốc - LKQT tại Đại học Văn Hiến định hướng ứng dụng thực tế, gắn kết trực tiếp với doanh nghiệp ngay từ năm 2."
+  }
+]

@@ -1,0 +1,420 @@
+{
+  "/api/slides": "HTTP Error 403: Forbidden",
+  "/api/tuition": {
+    "data": [
+      {
+        "STT": 1,
+        "TÊN NGÀNH HỌC": "Ngôn ngữ Pháp",
+        "MÃ NGÀNH": 7220203,
+        "Nhóm ngành": "Nhóm 1",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 12265000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 6132500
+      },
+      {
+        "STT": 2,
+        "TÊN NGÀNH HỌC": "Việt Nam học",
+        "MÃ NGÀNH": 7310630,
+        "Nhóm ngành": "Nhóm 1",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 12265000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 6132500
+      },
+      {
+        "STT": 3,
+        "TÊN NGÀNH HỌC": "Xã hội học",
+        "MÃ NGÀNH": 7310301,
+        "Nhóm ngành": "Nhóm 1",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 12265000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 6132500
+      },
+      {
+        "STT": 4,
+        "TÊN NGÀNH HỌC": "Văn học",
+        "MÃ NGÀNH": 7229030,
+        "Nhóm ngành": "Nhóm 1",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 12265000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 6132500
+      },
+      {
+        "STT": 5,
+        "TÊN NGÀNH HỌC": "Công nghệ thực phẩm",
+        "MÃ NGÀNH": 7540101,
+        "Nhóm ngành": "Nhóm 2",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 15088000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 7544000
+      },
+      {
+        "STT": 6,
+        "TÊN NGÀNH HỌC": "Đạo diễn điện ảnh, truyền hình",
+        "MÃ NGÀNH": 7210235,
+        "Nhóm ngành": "Nhóm 2",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 15088000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 7544000
+      },
+      {
+        "STT": 7,
+        "TÊN NGÀNH HỌC": "Công nghệ sinh học",
+        "MÃ NGÀNH": 7420201,
+        "Nhóm ngành": "Nhóm 3",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 15441000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 7720500
+      },
+      {
+        "STT": 8,
+        "TÊN NGÀNH HỌC": "Kỹ thuật môi trường",
+        "MÃ NGÀNH": 7520320,
+        "Nhóm ngành": "Nhóm 4",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 15794000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 7897000
+      },
+      {
+        "STT": 9,
+        "TÊN NGÀNH HỌC": "Kỹ thuật xây dựng",
+        "MÃ NGÀNH": 7580201,
+        "Nhóm ngành": "Nhóm 4",
+        "Số tín chỉ": 150,
+        " HỌC PHÍ HỌC KỲ 1 ": 14320000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 7160000
+      },
+      {
+        "STT": 10,
+        "TÊN NGÀNH HỌC": "Thanh nhạc",
+        "MÃ NGÀNH": 7210205,
+        "Nhóm ngành": "Nhóm 4",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 15794000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 7897000
+      },
+      {
+        "STT": 11,
+        "TÊN NGÀNH HỌC": "Piano",
+        "MÃ NGÀNH": 7210208,
+        "Nhóm ngành": "Nhóm 4",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 15794000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 7897000
+      },
+      {
+        "STT": 12,
+        "TÊN NGÀNH HỌC": "Ngôn ngữ Anh",
+        "MÃ NGÀNH": 7220201,
+        "Nhóm ngành": "Nhóm 5",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 15882000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 7941000
+      },
+      {
+        "STT": 13,
+        "TÊN NGÀNH HỌC": "Kinh tế",
+        "MÃ NGÀNH": 7310101,
+        "Nhóm ngành": "Nhóm 5",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 15882000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 7941000
+      },
+      {
+        "STT": 14,
+        "TÊN NGÀNH HỌC": "Quản trị nhân lực",
+        "MÃ NGÀNH": 7340404,
+        "Nhóm ngành": "Nhóm 6",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16324000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8162000
+      },
+      {
+        "STT": 15,
+        "TÊN NGÀNH HỌC": "Mạng máy tính và Truyền thông dữ liệu",
+        "MÃ NGÀNH": 7480102,
+        "Nhóm ngành": "Nhóm 6",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16324000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8162000
+      },
+      {
+        "STT": 16,
+        "TÊN NGÀNH HỌC": "Kế toán",
+        "MÃ NGÀNH": 7340301,
+        "Nhóm ngành": "Nhóm 6",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16324000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8162000
+      },
+      {
+        "STT": 17,
+        "TÊN NGÀNH HỌC": "Kỹ thuật điện tử - viễn thông",
+        "MÃ NGÀNH": 7520207,
+        "Nhóm ngành": "Nhóm 6",
+        "Số tín chỉ": 150,
+        " HỌC PHÍ HỌC KỲ 1 ": 14800000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 7400000
+      },
+      {
+        "STT": 18,
+        "TÊN NGÀNH HỌC": "Ngôn ngữ Nhật",
+        "MÃ NGÀNH": 7220209,
+        "Nhóm ngành": "Nhóm 6",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16324000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8162000
+      },
+      {
+        "STT": 19,
+        "TÊN NGÀNH HỌC": "Trung quốc học",
+        "MÃ NGÀNH": 7310612,
+        "Nhóm ngành": "Nhóm 6",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16324000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8162000
+      },
+      {
+        "STT": 20,
+        "TÊN NGÀNH HỌC": "Đông phương học",
+        "MÃ NGÀNH": 7310608,
+        "Nhóm ngành": "Nhóm 6",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16324000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8162000
+      },
+      {
+        "STT": 21,
+        "TÊN NGÀNH HỌC": "Quan hệ quốc tế",
+        "MÃ NGÀNH": 7310206,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 22,
+        "TÊN NGÀNH HỌC": "Khoa học máy tính",
+        "MÃ NGÀNH": 7480101,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 23,
+        "TÊN NGÀNH HỌC": "Quản trị khách sạn",
+        "MÃ NGÀNH": 7810201,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 24,
+        "TÊN NGÀNH HỌC": "Du lịch",
+        "MÃ NGÀNH": 7810101,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 25,
+        "TÊN NGÀNH HỌC": "Tâm lý học",
+        "MÃ NGÀNH": 7310401,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 26,
+        "TÊN NGÀNH HỌC": "Quản trị kinh doanh",
+        "MÃ NGÀNH": 7340101,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 27,
+        "TÊN NGÀNH HỌC": "Tài chính - Ngân hàng",
+        "MÃ NGÀNH": 7340201,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 28,
+        "TÊN NGÀNH HỌC": "Marketing",
+        "MÃ NGÀNH": 7340115,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 29,
+        "TÊN NGÀNH HỌC": "Kinh doanh thương mại",
+        "MÃ NGÀNH": 7340121,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 30,
+        "TÊN NGÀNH HỌC": "Quản trị nhà hàng và dịch vụ ăn uống",
+        "MÃ NGÀNH": 7810202,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 31,
+        "TÊN NGÀNH HỌC": "Công nghệ thông tin",
+        "MÃ NGÀNH": 7480201,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 32,
+        "TÊN NGÀNH HỌC": "Thương mại điện tử",
+        "MÃ NGÀNH": 7340122,
+        "Nhóm ngành": "Nhóm 7",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 16765000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8382500
+      },
+      {
+        "STT": 33,
+        "TÊN NGÀNH HỌC": "Công nghệ tài chính",
+        "MÃ NGÀNH": 7340205,
+        "Nhóm ngành": "Nhóm 8",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 17206000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8603000
+      },
+      {
+        "STT": 34,
+        "TÊN NGÀNH HỌC": "Công nghệ điện ảnh, truyền hình",
+        "MÃ NGÀNH": 7210302,
+        "Nhóm ngành": "Nhóm 8",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 17206000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8603000
+      },
+      {
+        "STT": 35,
+        "TÊN NGÀNH HỌC": "Quản trị dịch vụ du lịch và lữ hành",
+        "MÃ NGÀNH": 7810103,
+        "Nhóm ngành": "Nhóm 8",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 17206000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8603000
+      },
+      {
+        "STT": 36,
+        "TÊN NGÀNH HỌC": "Ngôn ngữ Trung Quốc",
+        "MÃ NGÀNH": 7220204,
+        "Nhóm ngành": "Nhóm 8",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 17206000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8603000
+      },
+      {
+        "STT": 37,
+        "TÊN NGÀNH HỌC": "Quan hệ công chúng",
+        "MÃ NGÀNH": 7320108,
+        "Nhóm ngành": "Nhóm 8",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 17206000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8603000
+      },
+      {
+        "STT": 38,
+        "TÊN NGÀNH HỌC": "Truyền thông đa phương tiện",
+        "MÃ NGÀNH": 7320104,
+        "Nhóm ngành": "Nhóm 8",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 17206000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8603000
+      },
+      {
+        "STT": 39,
+        "TÊN NGÀNH HỌC": "Điều dưỡng",
+        "MÃ NGÀNH": 7720301,
+        "Nhóm ngành": "Nhóm 8",
+        "Số tín chỉ": 150,
+        " HỌC PHÍ HỌC KỲ 1 ": 15600000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 7800000
+      },
+      {
+        "STT": 40,
+        "TÊN NGÀNH HỌC": "Logistics và Quản lý chuỗi cung ứng",
+        "MÃ NGÀNH": 7510605,
+        "Nhóm ngành": "Nhóm 8",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 17206000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 8603000
+      },
+      {
+        "STT": 41,
+        "TÊN NGÀNH HỌC": "Luật",
+        "MÃ NGÀNH": 7380101,
+        "Nhóm ngành": "Nhóm 9",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 18088000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 9044000
+      },
+      {
+        "STT": 42,
+        "TÊN NGÀNH HỌC": "Luật Kinh tế",
+        "MÃ NGÀNH": 7380107,
+        "Nhóm ngành": "Nhóm 9",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 18088000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 9044000
+      },
+      {
+        "STT": 43,
+        "TÊN NGÀNH HỌC": "Kiểm toán",
+        "MÃ NGÀNH": 7340302,
+        "Nhóm ngành": "Nhóm 10",
+        "Số tín chỉ": 136,
+        " HỌC PHÍ HỌC KỲ 1 ": 23206000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 11603000
+      },
+      {
+        "STT": "",
+        "TÊN NGÀNH HỌC": "Ngôn ngữ Trung Quốc - LKQT",
+        "MÃ NGÀNH": "7220204LK",
+        "Nhóm ngành": "",
+        "Số tín chỉ": "",
+        " HỌC PHÍ HỌC KỲ 1 ": 20652000,
+        " HỌC PHÍ HK1 SAU HỖ TRỢ 50% ": 10326000
+      }
+    ],
+    "colors": {
+      "bgColors": {},
+      "textColors": {},
+      "widths": {}
+    },
+    "isVisible": false
+  },
+  "/api/homepage-button-config": {
+    "success": true,
+    "data": {
+      "showCapNhatHoSo": false,
+      "showHocBong": false,
+      "showDangKyBoSung": true,
+      "showTraCuuTrungTuyen": true,
+      "showThamGiaKhoiChotHe": false
+    }
+  },
+  "/api/form": "HTTP Error 403: Forbidden"
+}
